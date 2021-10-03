@@ -12,5 +12,5 @@ All of them will be in the English and Spanish languages.</p>
 
 <h3>List of general tutorials</h3>
 <ul>
-  <li></li> 
+  <li><a href="https://www.youtube.com/watch?v=u05mUkNbVl8">Tutorial 2</a> (General) Install Yoroi extension and create a wallet.</li> 
 </ul>
