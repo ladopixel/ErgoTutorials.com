@@ -7,11 +7,12 @@ All of them will be in the English and Spanish languages.</p>
 
 <h3>List of tutorials for development</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=B3W9uNwk_DM&t=182s">Tutorial 1</a> (Develpment) Ergo API basic query.</li> 
+  <li><a href="https://www.youtube.com/watch?v=B3W9uNwk_DM&t=182s">Tutorial 1</a> Ergo API basic query.</li> 
 </ul>
 
 <h3>List of general tutorials</h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=u05mUkNbVl8">Tutorial 2</a> Install Yoroi extension and create a wallet.</li>
   <li><a href="https://www.youtube.com/watch?v=T9M6j6xfx4w">Tutorial 3</a> How to mix tokens with ErgoMixer.</li>
+  <li><a href="https://www.youtube.com/watch?v=2MVawkjuXiw">Tutorial 4</a> Swap with ErgoDex.</li>
 </ul>
