@@ -7,7 +7,8 @@ All of them will be in the English and Spanish languages.</p>
 
 <h3>List of tutorials for development</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=B3W9uNwk_DM&t=182s">Tutorial 1</a> Ergo API basic query.</li> 
+  <li><a href="https://www.youtube.com/watch?v=B3W9uNwk_DM">Tutorial 1</a> Ergo API basic query.</li> 
+  <li><a href="https://www.youtube.com/watch?v=mP6D9Pf6p88">Tutorial 9</a> Create mini web for your NFT.</li>
 </ul>
 
 <h3>List of general tutorials</h3>
