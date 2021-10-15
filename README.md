@@ -18,4 +18,5 @@ All of them will be in the English and Spanish languages.</p>
   <li><a href="https://www.youtube.com/watch?v=I3R6_PceM1k">Tutorial 5</a> Create token with Ergo Utils.</li>
   <li><a href="https://www.youtube.com/watch?v=XiAp5XioHaQ">Tutorial 6</a> Send token with Airdrop.</li>
   <li><a href="https://www.youtube.com/watch?v=DEWYEZUSbYQ">Tutorial 7</a> Redeem SigmaUSD.</li>
+  <li><a href="https://www.youtube.com/watch?v=wmzQV0ZTUWI">Tutorial 8</a> Create raffle in ErgoRaffle.</li>
 </ul>
