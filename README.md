@@ -20,4 +20,7 @@ All of them will be in the English and Spanish languages.</p>
   <li><a href="https://www.youtube.com/watch?v=XiAp5XioHaQ">Tutorial 6</a> Send token with Airdrop.</li>
   <li><a href="https://www.youtube.com/watch?v=DEWYEZUSbYQ">Tutorial 7</a> Redeem SigmaUSD.</li>
   <li><a href="https://www.youtube.com/watch?v=wmzQV0ZTUWI">Tutorial 8</a> Create raffle in ErgoRaffle.</li>
+  <li><a href="https://www.youtube.com/watch?v=F2OGYgUPJ4Q">Tutorial 10</a> Use ErgoWallets.org.</li>
+  <li><a href="https://www.youtube.com/watch?v=nxzfoY3QQUM">Tutorial 11</a> Buy Erg at Gate.io.</li>
+  
 </ul>
