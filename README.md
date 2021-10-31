@@ -5,6 +5,8 @@
 <br>
 All of them will be in the English and Spanish languages.</p>
 
+<p>Follow us on Twitter <a href="https://twitter.com/ergotutorials" title="ErgoTutorials.com">@ErgoTutorials</a></p>
+
 <h3>List of tutorials for development</h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=B3W9uNwk_DM">Tutorial 1</a> Ergo API basic query.</li> 
