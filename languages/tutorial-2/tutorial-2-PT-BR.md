@@ -1,4 +1,5 @@
-Tutorial 2 - PT-BR
+Tutorial 2 - PT-BR<br>
+(Translation by Hamilton)
 
 Título - Instalar a extensão Yoroi e criar uma carteira.
 Descrição - Vamos instalar a extensão Yoroi para criar uma carteira passo a passo.
