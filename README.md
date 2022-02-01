@@ -42,4 +42,5 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
   <li><a href="https://www.youtube.com/watch?v=nxzfoY3QQUM">Tutorial 11</a> Buy Erg at Gate.io.</li>
   <li><a href="https://www.youtube.com/watch?v=bgDqS5NMUVM">Tutorial 12</a> Withdraw ERG from Gate.io.</li>
   <li><a href="https://www.youtube.com/watch?v=Shm7FF0DNk8">Tutorial 13</a> Create auction on Ergo Auctions V2.</li>
+  <li><a href="https://www.youtube.com/watch?v=vsB6RoY_7Z8">Tutorial 14</a> Configuring ErgoTipperBot.</li>
 </ul>
