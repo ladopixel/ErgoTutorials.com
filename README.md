@@ -43,4 +43,6 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
   <li><a href="https://www.youtube.com/watch?v=bgDqS5NMUVM">Tutorial 12</a> Withdraw ERG from Gate.io.</li>
   <li><a href="https://www.youtube.com/watch?v=Shm7FF0DNk8">Tutorial 13</a> Create auction on Ergo Auctions V2.</li>
   <li><a href="https://www.youtube.com/watch?v=vsB6RoY_7Z8">Tutorial 14</a> Configuring ErgoTipperBot.</li>
+  <li><a href="https://www.youtube.com/watch?v=hMwtwlUpnRQ">Tutorial 15</a> Install Nautilus extension and create a wallet.</li>
+  <li><a href="https://www.youtube.com/watch?v=UCgiS4GRqkE">Tutorial 16</a> ErgoDex with Nautilus Wallet.</li>
 </ul>
