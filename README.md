@@ -45,4 +45,8 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
   <li><a href="https://www.youtube.com/watch?v=vsB6RoY_7Z8">Tutorial 14</a> Configuring ErgoTipperBot.</li>
   <li><a href="https://www.youtube.com/watch?v=hMwtwlUpnRQ">Tutorial 15</a> Install Nautilus extension and create a wallet.</li>
   <li><a href="https://www.youtube.com/watch?v=UCgiS4GRqkE">Tutorial 16</a> ErgoDex with Nautilus Wallet.</li>
+  <li><a href="https://www.youtube.com/watch?v=DFf-dDlCpzM">Tutorial 17</a> Download and use SafeW.</li>
+  <li><a href="https://www.youtube.com/watch?v=3utoKRu5yAg">Tutorial 18</a> Swap and stake ErgoPad.</li>
+  
+  
 </ul>
