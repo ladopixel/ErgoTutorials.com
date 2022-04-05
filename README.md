@@ -25,28 +25,28 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
 <h2>Tutorials</h2>
 <h3>List of tutorials for development</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=B3W9uNwk_DM">Tutorial 1</a> Ergo API basic query.</li> 
-  <li><a href="https://www.youtube.com/watch?v=mP6D9Pf6p88">Tutorial 9</a> Create mini web for your NFT.</li>
+  <li><a href="https://ergotutorials.com/video/ergo-api-query">Tutorial 1</a> Ergo API basic query.</li> 
+  <li><a href="https://ergotutorials.com/video/create-mini-web">Tutorial 9</a> Create mini web for your NFT.</li>
 </ul>
 
 <h3>List of general tutorials</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=u05mUkNbVl8">Tutorial 2</a> Install Yoroi extension and create a wallet.</li>
-  <li><a href="https://www.youtube.com/watch?v=T9M6j6xfx4w">Tutorial 3</a> How to mix tokens with ErgoMixer.</li>
-  <li><a href="https://www.youtube.com/watch?v=2MVawkjuXiw">Tutorial 4</a> Swap with ErgoDex.</li>
-  <li><a href="https://www.youtube.com/watch?v=I3R6_PceM1k">Tutorial 5</a> Create token with Ergo Utils.</li>
-  <li><a href="https://www.youtube.com/watch?v=XiAp5XioHaQ">Tutorial 6</a> Send token with Airdrop.</li>
-  <li><a href="https://www.youtube.com/watch?v=DEWYEZUSbYQ">Tutorial 7</a> Redeem SigmaUSD.</li>
-  <li><a href="https://www.youtube.com/watch?v=wmzQV0ZTUWI">Tutorial 8</a> Create raffle in ErgoRaffle.</li>
-  <li><a href="https://www.youtube.com/watch?v=F2OGYgUPJ4Q">Tutorial 10</a> Use ErgoWallets.org.</li>
-  <li><a href="https://www.youtube.com/watch?v=nxzfoY3QQUM">Tutorial 11</a> Buy Erg at Gate.io.</li>
-  <li><a href="https://www.youtube.com/watch?v=bgDqS5NMUVM">Tutorial 12</a> Withdraw ERG from Gate.io.</li>
-  <li><a href="https://www.youtube.com/watch?v=Shm7FF0DNk8">Tutorial 13</a> Create auction on Ergo Auctions V2.</li>
-  <li><a href="https://www.youtube.com/watch?v=vsB6RoY_7Z8">Tutorial 14</a> Configuring ErgoTipperBot.</li>
-  <li><a href="https://www.youtube.com/watch?v=hMwtwlUpnRQ">Tutorial 15</a> Install Nautilus extension and create a wallet.</li>
-  <li><a href="https://www.youtube.com/watch?v=UCgiS4GRqkE">Tutorial 16</a> ErgoDex with Nautilus Wallet.</li>
-  <li><a href="https://www.youtube.com/watch?v=DFf-dDlCpzM">Tutorial 17</a> Download and use SafeW.</li>
-  <li><a href="https://www.youtube.com/watch?v=3utoKRu5yAg">Tutorial 18</a> Swap and stake ErgoPad.</li>
-  
+  <li><a href="https://ergotutorials.com/video/install-yoroi">Tutorial 2</a> Install Yoroi extension and create a wallet.</li>
+  <li><a href="https://ergotutorials.com/video/mix-tokens-ergomixer">Tutorial 3</a> How to mix tokens with ErgoMixer.</li>
+  <li><a href="https://ergotutorials.com/video/swap-with-ergodex">Tutorial 4</a> Swap with ErgoDex.</li>
+  <li><a href="https://ergotutorials.com/video/create-token-ergoutils">Tutorial 5</a> Create token with Ergo Utils.</li>
+  <li><a href="https://ergotutorials.com/video/send-token-airdrop">Tutorial 6</a> Send token with Airdrop.</li>
+  <li><a href="https://ergotutorials.com/video/redeem-sigmausd">Tutorial 7</a> Redeem SigmaUSD.</li>
+  <li><a href="https://ergotutorials.com/video/create-raffle">Tutorial 8</a> Create raffle in ErgoRaffle.</li>
+  <li><a href="https://ergotutorials.com/video/use-ergowalletsorg">Tutorial 10</a> Use ErgoWallets.org.</li>
+  <li><a href="https://ergotutorials.com/video/buy-erg-gateio">Tutorial 11</a> Buy Erg at Gate.io.</li>
+  <li><a href="https://ergotutorials.com/video/withdraw-gateio">Tutorial 12</a> Withdraw ERG from Gate.io.</li>
+  <li><a href="https://ergotutorials.com/video/create-auction-v2">Tutorial 13</a> Create auction on Ergo Auctions V2.</li>
+  <li><a href="https://ergotutorials.com/video/configuring-ergotipperbot">Tutorial 14</a> Configuring ErgoTipperBot.</li>
+  <li><a href="https://ergotutorials.com/video/install-nautilus">Tutorial 15</a> Install Nautilus extension and create a wallet.</li>
+  <li><a href="https://ergotutorials.com/video/ergodex-with-nautilus">Tutorial 16</a> ErgoDex with Nautilus Wallet.</li>
+  <li><a href="https://ergotutorials.com/video/use-safew">Tutorial 17</a> Download and use SafeW.</li>
+  <li><a href="https://ergotutorials.com/video/stake-ergopad">Tutorial 18</a> Swap and stake ErgoPad.</li>
+  <li><a href="https://ergotutorials.com/video/paper-wallet">Tutorial 19</a> Use Ergo Paper Wallet.</li>
   
 </ul>
