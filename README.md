@@ -48,5 +48,6 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
   <li><a href="https://ergotutorials.com/video/use-safew">Tutorial 17</a> Download and use SafeW.</li>
   <li><a href="https://ergotutorials.com/video/stake-ergopad">Tutorial 18</a> Swap and stake ErgoPad.</li>
   <li><a href="https://ergotutorials.com/video/paper-wallet">Tutorial 19</a> Use Ergo Paper Wallet.</li>
+  <li><a href="https://ergotutorials.com/video/buy-sigmausd-sigmarsv">Tutorial 20</a> Buy SigmaUSD and SigmaRSV.</li>
   
 </ul>
