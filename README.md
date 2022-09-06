@@ -29,6 +29,7 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
   <li><a href="https://ergotutorials.com/video/create-mini-web">Tutorial 9</a> Create mini web for your NFT.</li>
   <li><a href="https://ergotutorials.com/video/send-erg-python">Tutorial 25</a> Sending ERG with Python.</li>
   <li><a href="https://ergotutorials.com/video/create-token-python">Tutorial 26</a> Create token with Python.</li>
+  <li><a href="https://github.com/ladopixel/ErgoTutorials.com/tree/master/tutorial-27">Tutorial 27</a> Send tokens with Python.</li>
 </ul>
 
 <h3>List of general tutorials</h3>
