@@ -1,12 +1,10 @@
 """
     Tutorial for ErgoTutorials.com | Sending different tokens to various addresses with ergpy
 
-    → pip install ergpy
-
+    → pip install ergpy or pip install -U ergpy
     → pip install dotenv
+
     → Modify the file .env with PASSWORD = 'your wallet_mnemonic'
-    ↓ You can avoid working with the environment variable by directly assigning your passphrase 
-    wallet_mnemonic = 'your your wallet_mnemonic'
 
     → python3 app.py
 """
@@ -18,8 +16,7 @@ node_url: str = 'http://159.65.11.55:9053/'
 ergo = appkit.ErgoAppKit(node_url=node_url)
 
 private = dotenv_values('.env')
-wallet_mnemonic = private['PASSWORD'] 
-# OR wallet_mnemonic = 'your your wallet_mnemonic' 
+wallet_mnemonic = private['PASSWORD']
 
 
 def send_tokens():
@@ -35,7 +32,7 @@ def send_tokens():
                         ]
     ↓"""
     amount = [0.03, 0.04, 0.02]
-    
+
 
     """ tokens for each wallet = [ 
                             [token_id, token_id, token_id →→→→ wallet1],
@@ -57,7 +54,26 @@ def send_tokens():
     ]
 
 
-    tx = helper_functions.send_token(ergo=ergo, amount=amount, receiver_addresses=receiver_addresses, tokens=tokens, wallet_mnemonic=wallet_mnemonic)
+    """ Amount for each tokens [
+                            100 COMET                                   →→→→ wallet1
+                            100 Mi Goreng                               →→→→ wallet1
+                            0.000001 Lunadog                            →→→→ wallet1 (The decimals of the token (8 decimals) must be taken into account)
+
+                            100 COErgo’s EIP-27 RolloutET               →→→→ wallet2
+
+                            100 COMET                                   →→→→ wallet3
+                            100 Mi Goreng                               →→→→ wallet3
+                            0.000001 Lunadog                            →→→→ wallet3 (The decimals of the token (8 decimals) must be taken into account)
+                            100 COErgo’s EIP-27 RolloutET               →→→→ wallet3
+                        ]
+    ↓"""
+    amount_tokens = [
+                [100, 100, 100],
+                [100],
+                [100, 100, 100, 100]
+            ]
+
+    tx = helper_functions.send_token(ergo=ergo, amount=amount, receiver_addresses=receiver_addresses, amount_tokens=amount_tokens,tokens=tokens, wallet_mnemonic=wallet_mnemonic)
     print(f'→ {tx}')
 
 input('Pulse enter')
