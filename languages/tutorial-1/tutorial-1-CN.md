@@ -5,7 +5,7 @@
 2 - 仅仅利用几行的代码和一些基础的HTML, Javascript的知识, 我们就可以开始与ergo区块链进行交互.
 
 3 - 首先创建HTML5结构的文件, 文件名为index.html. 修改好title,再从body标签的onload事件上调用heightCreation函数, 最后我们还要引入getInfo.js文件.
-
+tutorial 1-3.mp3
 3.1 - 先修改title.
 
 3.2 - 在onload事件上调用函数.
