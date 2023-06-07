@@ -56,5 +56,6 @@ Lee <a href="https://ergoplatform.org/es/blog/2021-04-26-the-ergo-manifesto/">El
   <li><a href="https://ergotutorials.com/video/ergo-mobile-wallet">Tutorial 22</a> Use Ergo Mobile Wallet.</li>
   <li><a href="https://ergotutorials.com/video/ergo-node-mac">Tutorial 23</a> Ergo node with Mac.</li>
   <li><a href="https://ergotutorials.com/video/market-nfts-skyharbor">Tutorial 24</a> Buy and sell NFTs at SkyHarbor.</li>
+  <li><a href="https://ergotutorials.com/video/auction-house-v3">Tutorial 28</a> Auction House v3.</li>
   
 </ul>
