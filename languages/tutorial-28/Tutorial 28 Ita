@@ -1,0 +1,99 @@
+tutorial 28 - IT
+
+Título - Casa d'Aste v3 Descripción - In questo tutorial vedremo la Casa d'Aste V3, le sue nuove caratteristiche, creeremo un NFT e lo listeremo. Se vuoi vedere altri tutorial su Ergo visita: https://ergotutorials.com/
+
+1 - In questo tutorial vedremo la Casa d'Aste V3, le sue nuove caratteristiche, conieremo un NFT e lo listeremo.
+
+2 - La prima cosa da fare è andare sul sito della Casa d'Aste.
+
+3 - Qui possiamo vedere l'andamento di tutti gli NFT.
+
+4 - Clicchiamo su "Vedi di più" e verremo indirizzati a "Esplora NFT", dove potremo vedere tutti gli NFT elencati.
+
+5 - Clicchiamo su un NFT per vederne i dettagli.
+
+6 - Possiamo vedere chi lo ha elencato.
+
+7 - Il portafoglio che ha fatto l'offerta.
+
+8 - Il tempo rimanente fino alla fine dell'asta.
+
+9 - Il prezzo attuale e il prezzo a cui si può fare un'offerta.
+
+10 - Possiamo anche vedere tutti i dettagli dell'NFT.
+
+11 - In questa nuova versione V3 sono state implementate le royalties condivise, in questo caso è stata configurata una royalty del 6% e con 3 portafogli diversi, ognuno riceverà il 2%.
+
+12 - Qui possiamo vedere la cronologia delle offerte e le NFT simili.
+
+13 - Qui possiamo vedere i dettagli di un'altra NFT, in questo caso è stato impostato un prezzo fisso.
+
+14 - Si possono vedere i diversi tratti dell'NFT.
+
+15 - Qui si possono vedere le ultime vendite.
+
+16 - Qui possiamo vedere le nuove collezioni, uno dei miglioramenti più attesi dalla comunità. Queste collezioni sono token nativi della catena, li vedremo in dettaglio in un tutorial esclusivo sulle nuove collezioni.
+
+17 - Possiamo filtrare la ricerca in base allo stato, al prezzo, alle collezioni, alla valuta e al contenuto esplicito.
+
+18 - Qui possiamo ordinare gli NFT per importanza, offerta più alta, offerta più bassa e prossima alla fine.
+
+19 - Possiamo anche trovare le attività più recenti.
+
+20 - Possiamo filtrare le attività per vendite, inserzioni, offerte, opere d'arte e collezioni.
+
+21 - Qui possiamo vedere alcune delle collezioni.
+
+22 - Passiamo alla modalità notturna.
+
+23 - Per iniziare a coniare un NFT dobbiamo prima collegare il nostro portafoglio.
+
+24 - Una volta collegato il portafoglio, configureremo il nostro profilo.
+
+25 - Verifichiamo il nostro account Twitter.
+
+26 - Qui possiamo vedere gli NFT che abbiamo coniato, le collezioni coniate, gli elenchi, gli NFT che possediamo e le nostre collezioni.
+
+27 - Conieremo un NFT.
+
+28 - Scegliamo l'immagine.
+
+29 - Una delle nuove funzioni è la coniazione massiva, dovremo solo allegarle e completare le informazioni di ognuna.
+
+30 - Conieremo un solo NFT.
+
+31 - Non abbiamo ancora creato alcuna collezione, quindi lasceremo questo campo come predefinito.
+
+32 - Qui possiamo configurare le royalties, scegliendo tra l'1 e il 10%.
+
+33 - Potendo condividere le royalties, includeremo gli indirizzi di tutti i traduttori che hanno collaborato con Ergo Tutorials.
+
+34 - Qui possiamo aggiungere i tratti. L'aggiunta di queste informazioni faciliterà le ricerche e potremo filtrare in base ai diversi tratti che abbiamo utilizzato.
+
+35 - Qui si può scegliere se pagare le tasse con AHT, risparmiando il 20%, o in ERG.
+
+36 - Una volta che la transazione è stata confermata, possiamo vedere una notifica che ci informa che il conio è andato a buon fine.
+
+37 - Qui possiamo vedere i dettagli del nostro NFT.
+
+38 - Ora elenchiamo il nostro NFT.
+
+38-2 - Un'altra delle nuove aggiunte è la possibilità di quotare in modo massiccio.
+
+39 - Qui possiamo inserire un prezzo fisso.
+
+40 - Qui possiamo mettere un'asta, una delle opzioni è vendere al miglior offerente.
+
+41 - Un'altra opzione è quella di vendere a prezzo decrescente.
+
+42 - Questa opzione può essere utilizzata in due modi: si inizia con un prezzo alto, ad esempio 50 ERG, e si termina con 1 ERG; il prezzo NFT scenderà ogni ora.
+
+43 - Un'altra opzione è quella di iniziare con un prezzo basso, ad esempio 1 ERG e terminare con 50 ERG, il prezzo NFT salirà ogni ora.
+
+44 - Utilizzeremo l'asta in cui si vende al miglior offerente.
+
+44-2- Possiamo usare ERG o SigmaUSD.
+
+45 - Qui possiamo scegliere la data e l'ora di inizio dell'asta, ora è possibile programmarla.
+
+46 - Una volta confermata la transazione, appare una notifica che indica che il nostro NFT è stato inserito nella lista.
