@@ -1,0 +1,43 @@
+tutorial 29 - IT
+
+Titolo - Rosen Bridge Watcher con Mac Descrizione - In questa esercitazione si illustra la procedura per partecipare come watcher al Rosen Bridge. Se volete vedere altri tutorial su Ergo, visitate: https://ergotutorials.com/.
+
+1 - In questo tutorial illustreremo la procedura per partecipare come osservatore al Rosen Bridge.
+
+2 - La prima cosa da fare è andare sul sito web di Rosen.
+
+3 - Una volta sul sito web, facciamo clic per andare su GitHub.
+
+4 - D'altra parte, scarichiamo Docker dal sito ufficiale, se non lo abbiamo installato sul nostro computer, e installiamolo.
+
+5 - Apriamo un terminale e cloniamo il repository sul nostro computer.
+
+6 - Accediamo alla directory dell'osservatore.
+
+7 - Creiamo il nostro file di ambiente e configuriamo i nostri parametri.
+
+8 - Si impostano i permessi necessari e si crea il file local.yaml nella cartella config.
+
+9 - Impostiamo il permesso 707 per la directory dei log; questo passaggio è necessario solo su Mac.
+
+10 - Copio la struttura del file local.yaml e modifico i valori con i miei, frase di seme e altezza del blocco corrente. Il resto non è necessario modificarlo.
+
+11 - Estraiamo l'immagine Docker.
+
+12 - Infine, eseguiamo il contenitore.
+
+13 - Andiamo nel nostro browser e apriamo localhost:3030
+
+14 - Ricordiamoci di avere i saldi Ergo minimi richiesti e il token Rosen.
+
+9 - Impostiamo il permesso 707 per la directory dei log; questo passaggio è necessario solo su Mac.
+
+10 - Copio la struttura del file local.yaml e modifico i valori con i miei, frase di seme e altezza del blocco corrente. Il resto non è necessario modificarlo.
+
+11 - Estraiamo l'immagine Docker.
+
+12 - Infine, eseguiamo il contenitore.
+
+13 - Andiamo nel nostro browser e apriamo localhost:3030
+
+14 - Ricordiamoci di avere i saldi Ergo minimi richiesti e il token Rosen.
